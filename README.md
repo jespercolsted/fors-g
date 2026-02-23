@@ -7,7 +7,7 @@ See [docs/overview.md](docs/overview.md) for an overview of the base module cont
 
 ## Template for a project
 this is a garbage simulation project. 
-a block of flats has three containers a left center and right
+
 
 ### My Smart City Project: [Project Name]
 
